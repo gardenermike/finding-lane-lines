@@ -4,7 +4,9 @@
 
 ---
 
-### Reflection
+### What this code does
+This is code using computer vision techniques to find lane lines on the road.
+Check out the test_videos_output directory or the iPython notebook for example output.
 
 ### 1. My image pipeline
 
